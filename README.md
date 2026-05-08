@@ -1,1 +1,3 @@
-# api-automation-dummyjson
+target/
+.idea/
+*.log
